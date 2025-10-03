@@ -1,0 +1,29 @@
+{
+  "name": "nasa-weather-api",
+  "version": "1.0.0",
+  "description": "NASA Weather Prediction API - FastAPI backend for global weather prediction",
+  "scripts": {
+    "start": "python run.py",
+    "dev": "python run.py",
+    "test": "python test_api.py"
+  },
+  "keywords": [
+    "weather",
+    "nasa",
+    "api",
+    "fastapi",
+    "prediction",
+    "climate",
+    "satellite"
+  ],
+  "author": "NASA Space Apps Challenge Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/nasa-weather-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/nasa-weather-api/issues"
+  },
+  "homepage": "https://github.com/your-username/nasa-weather-api#readme"
+}
