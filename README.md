@@ -200,6 +200,17 @@ backend/
 3. **Weather Logic**: Modify `models/weather_models.py`
 4. **Configuration**: Update `config.py`
 
+## Contributors
+
+Meet the amazing team behind this NASA Space Apps Challenge project:
+
+- **Mahfuz Hasan Reza** – Team Leader & Video Editor, also served as the Software Lead of UIU CanSat Team (CanSat Competition 2025, Virginia, USA).
+- **Samia Sayeed** – Researcher & Storyteller, previously a Branding Member of UIU Mariner Team (MATE ROV Competition 2025, USA).
+- **Rifat Hridoy** – Full Stack Developer, Researcher, AI/ML Engineer
+- **Shadab Yasar** – Machine Learning Engineer
+- **Aranya Kishor Das** – UI/UX Designer
+- **Koushik Kumar Roy** – Researcher, AI/ML Engineer
+
 ## License
 
 This project is part of the NASA Space Apps Challenge submission.
